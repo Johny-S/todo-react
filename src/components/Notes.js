@@ -13,7 +13,7 @@ export const Notes = ({notes}) => {
             </div>
             <button
               type="button" 
-              class="btn btn-outline-danger btn-sm">
+              className="btn btn-outline-danger btn-sm">
                 &times;
             </button>
         </li>
